@@ -1,11 +1,10 @@
-#Kilder til Your Extreme
+# Kilder til Your Extreme
 
-Datagrunnlag og geografisk studie bak [Second Signal] sin nettside: 
-https://kongsberg.bighiro6.com
+Datagrunnlag og geografisk studie bak [Second Signal](https://kongsberg.bighiro6.com).
 
-Øyeblikksbilde publisert 25. september 2026; kildene ble undersøkt 24. september 2026.
+Kildene ble undersøkt 24. september 2026. Data og resultater ble publisert 25. september 2026.
 
-Dette repositoriet inneholder forskningsnotater, kildeuttrekk og data brukt i nettstedet og beregningene bak det. Nettsidens programkode og drift er ikke inkludert.
+Her finner du dataene som brukes på nettstedet, kildeuttrekkene og beregningene bak studien.
 
 ## Finn frem
 
@@ -31,54 +30,75 @@ Dette repositoriet inneholder forskningsnotater, kildeuttrekk og data brukt i ne
 | [`data/analysis.npz`](data/analysis.npz) | Lagrede NumPy-arrayer fra analysen. |
 | [`data/natural-earth-50m.json`](data/natural-earth-50m.json) | Kartgrunnlag fra Natural Earth før regional bearbeiding. |
 
-## Kilder og tolkning
+## Kilder
 
 Befolkningsdata kommer fra [Statistisk sentralbyrå](https://www.ssb.no/natur-og-miljo/areal/artikler/kart-og-geodata-fra-ssb), stasjonsdata fra operatørenes egne publiseringer, og kartgrenser fra [Natural Earth](https://www.naturalearthdata.com/). Detaljerte kildelenker og avgrensninger finnes i [kilderegisteret](bensinstasjoner-primarkilder.md) og datafilenes kildefelt. Materialet har flere opphav; dette repositoriet gir ingen ny, felles lisens til tredjepartsdata.
 
-Nettstedets interaktive beregning bruker avstander på en kuleflate og en rutemargin på 710 meter. Studien nedenfor bruker WGS84-geodesi og etterfølgende fjerning av overflødige stasjoner. Derfor kan den interaktive planleggeren gi andre resultater enn studiens referansetall.
+## Hvor godt samsvarer nettstedet med studien?
 
-Dette er en geografisk mulighetsstudie. Den dokumenterer ikke radiodekning, operativ beredskap eller et bevist minimum av stasjoner. Svalbard inngår ikke.
+Nettstedet bruker de samme befolkningsdataene og kandidatstasjonene som studien. Ved **40 km radius og 147 punkter** beregner den interaktive modellen **99,872 %** befolkningsdekning, mot studiens **99,877 %**. Forskjellen er 281 personer i rutenettet, eller omtrent 0,005 prosentpoeng. Ved denne innstillingen gir nettstedet dermed et svært likt bilde av den geografiske dekningen.
+
+Begge beregningene trekker fra 710 meter fra radiusen for å ta høyde for at folk kan bo hvor som helst i en kilometerrute. Ved 40 km radius må rutesenteret derfor ligge innenfor 39,29 km fra stasjonen.
+
+Metodene skiller seg på to punkter:
+
+- **Avstander:** Nettstedet regner jorden som en kule. Studien bruker WGS84, som tar hensyn til at jorden er litt flattrykt. Dette kan påvirke hvilke ruter som regnes med nær dekningsgrensen.
+- **Valg av stasjoner:** Nettstedet legger til den stasjonen som når flest nye personer for hvert trinn. Studien gjør også en etterkontroll og fjerner stasjoner som er blitt overflødige. Derfor kan stasjonsutvalget og antallet punkter bli forskjellig.
+
+Sammenligningen gjelder den publiserte modellen ved 40 km. Når radiusen eller antallet punkter endres, viser nettstedet en ny beregning for den valgte innstillingen.
 
 ---
 
-# Kartlegging av 40 km dekning fra drivstoffpunkter i Norge
+## Kartlegging av 40 km dekning fra drivstoffpunkter i Norge
 
-**Drivstoffpunkter kan geografisk dekke svært mye av bosetningen, men det er ikke dokumentert at alle bebodde områder i Norge har en bensinstasjon innen 40 km.** Beregningen nedenfor er en landsdekkende screening av Fastlands-Norge med øyer. Den er ikke en ferdig beredskapsplan eller et fullstendig stasjonsregister.
+Et utvalg på **147 drivstoffpunkter** dekker geografisk **99,877 % av befolkningen i SSBs publiserte kilometerruter** med en antatt radius på 40 km og en rutemargin på 710 meter. Beregningen omfatter Fastlands-Norge med øyer.
 
-- 1098 ulike kandidatpunkter etter sammenfallende posisjoner innen 150 meter er slått sammen. Kjedetall etter sammenslåing: {'Circle K': 443, 'Bunker Oil': 74, 'Joker': 1, 'St1': 1, 'YX': 270, 'Uno-X': 309}.
-- Alle 55268 publiserte befolkede 1 × 1 km-ruter i SSBs 2025-lag er hentet, med 5,585,868 personer i datasettet.
-- Målt til rutesenter: 5,579,223 personer ligger i ruter med kjent stasjon innen 40 km; 267 ruter har ikke slikt treff.
-- Med 710 meter margin for plasseringen inne i kilometerruten: 5,579,014 personer, eller **99.877 % av datasettets befolkning**, i ruter med dekningsmargin. 292 ruter med 6,854 personer er uavklart eller ved grensen.
-- Et beregnet utvalg på **147 drivstoffpunkter** dekker alle rutene som kan dekkes med denne marginen av kandidatene. Dette er ett forslag, ikke et bevist minsteantall, og ikke et bevis på at akkurat disse punktene må benyttes.
+| Resultat | Antall |
+|---|---:|
+| Kandidatpunkter etter sammenslåing av plasseringer innen 150 meter | 1 098 |
+| Befolkede kilometerruter i SSBs 2025-lag | 55 268 |
+| Personer i datasettet | 5 585 868 |
+| Personer innen 40 km fra en kandidat, målt til rutesenter | 5 579 223 |
+| Ruter uten treff innen 40 km, målt til rutesenter | 267 |
+| Personer dekket med 710 meter rutemargin | 5 579 014 |
+| Ruter som ikke dekkes med rutemarginen | 292 |
+| Personer i disse rutene | 6 854 |
 
-Tallene er egne beregninger. [SSBs datasettbeskrivelse](https://data.norge.no/nb/datasets/1f11afd2-16c7-3f7e-abca-6feb02ca024d/befolkning-pa-rutenett-1000-m-2025) og [SSBs geodataportal](https://www.ssb.no/natur-og-miljo/areal/artikler/kart-og-geodata-fra-ssb) beskriver datagrunnlaget. Prosentsatsen gjelder befolkningen i de publiserte rutene; den er ikke en målt andel av alle personer som oppholder seg i Norge i dag.
+Kandidatpunktene fordeler seg slik etter sammenslåing:
 
-## Filer
+| Kjede | Punkter |
+|---|---:|
+| Circle K | 443 |
+| Uno-X | 309 |
+| YX | 270 |
+| Bunker Oil | 74 |
+| Joker | 1 |
+| St1 | 1 |
+| **Totalt** | **1 098** |
 
-- `dekningskart-40km.png` og `.svg`: nasjonalt oversiktskart. Oransje kryss er uavklarte ruter, ikke bekreftet fravær av bensinstasjon.
-- `data/foreslatte-stasjoner.csv`: hele forslaget med navn, koordinater, adresse og kilde.
-- `foreslatte-punkter.geojson`: samme punkter til GIS.
-- `data/all-stations.json`: alle kandidatene og om de er valgt.
-- `data/unresolved-cells.json`: alle ruter som trenger videre kontroll, med nærmeste kjente kandidat og avstand.
-- `bensinstasjoner-primarkilder.md`: verifiserte lokale stasjoner, kildeoversikt og Svalbard-avgrensing.
+Tallene er beregnet fra [SSBs befolkningsrutenett for 2025](https://data.norge.no/nb/datasets/1f11afd2-16c7-3f7e-abca-6feb02ca024d/befolkning-pa-rutenett-1000-m-2025) og de kartlagte stasjonene. Dekningsandelen gjelder befolkningen i dette datasettet.
+
+### Forutsetninger og begrensninger
+
+Radiusen på 40 km er en antakelse om geografisk rekkevidde. Radioutbredelse, ballongdrift, strøm, kapasitet, forbindelser mellom stasjoner og tilgang til plasseringene er ikke undersøkt. Utvalget på 147 punkter er én beregnet løsning; det er ikke dokumentert at dette er det laveste mulige antallet, eller at dekningen opprettholdes ved bortfall av en ballong. Svalbard inngår ikke.
 
 ## Hvordan punktene er valgt
 
-Avstander beregnes geodetisk på WGS84, ikke som kjørelengde. For hver rute undersøkes nærmeste kandidater. En stasjon dekker en hel kilometerrute konservativt dersom avstanden til rutesenter er høyst 39,29 km: resterende 710 meter tar høyde for avstanden til hjørnene. Marginen er for rutegeometrien, ikke for feil i operatørens koordinater eller ballongdrift.
+Studien beregner luftlinjeavstander langs jordoverflaten med WGS84. En rute regnes som dekket når rutesenteret ligger høyst 39,29 km fra en kandidat. Rutemarginen tar høyde for avstanden til rutens hjørner; usikkerhet i stasjonskoordinater og ballongdrift inngår ikke.
 
-Utvalgsalgoritmen velger gjentatte ganger stasjonen som dekker flest hittil udekkede personer, fortsetter til alle dekkbare ruter er dekket, og fjerner overflødige stasjoner i revers rekkefølge. Det finnes normalt flere alternative løsninger. Dette beregnede utvalget skal ikke tolkes som et globalt optimum.
+Stasjonene velges én om gangen etter hvor mange nye personer de dekker. Når alle rutene som kan nås av kandidatene er dekket, gjennomgås utvalget baklengs. En stasjon fjernes dersom de øvrige stasjonene dekker alle rutene dens.
 
-Datainnhenting: SSB-laget ble hentet i sider på 1000 med kontroll av antall og unike rute-ID-er. Beregningene ble utført fra de lagrede kildene. Dette repositoriet inneholder datagrunnlaget og resultatene; innhentings- og analyseprogrammene ligger i nettstedsprosjektet.
+SSB-dataene ble hentet i grupper på 1 000 ruter og kontrollert for antall og unike rute-ID-er. Kildeuttrekk og resultater ligger i dette repositoriet; programmene for innhenting og analyse ligger i nettstedsprosjektet.
 
 ## Stasjonsgrunnlag og begrensninger
 
-Bruker kjedenes egne data: [Circle K](https://www.circlek.no/station-search), [YX](https://www.yx.no/stasjon), [Uno-X](https://unox.no/finn-uno-x/), [Bunker Oil](https://bunkeroil.no/en/map-petrol-stations), samt [Joker Træna](https://joker.no/finn-butikk/joker-trana) og [St1 Skjervøy](https://st1.no/stasjon/skjervy). Ladestasjoner og bilvask uten registrert drivstoff er filtrert ut. Bunker Oil inkluderer marine utsalg, og Træna-punktet er en butikk med drivstoff. Resultatet gjelder derfor **drivstoffpunkter**, ikke utelukkende bemannede bensinstasjoner med biladkomst.
+Stasjonsgrunnlaget kommer fra [Circle K](https://www.circlek.no/station-search), [YX](https://www.yx.no/stasjon), [Uno-X](https://unox.no/finn-uno-x/), [Bunker Oil](https://bunkeroil.no/en/map-petrol-stations), samt [Joker Træna](https://joker.no/finn-butikk/joker-trana) og [St1 Skjervøy](https://st1.no/stasjon/skjervy). Ladestasjoner og bilvask uten registrert drivstoff er filtrert ut. Bunker Oil inkluderer marine utsalg, og Træna-punktet er en butikk med drivstoff. Resultatet gjelder derfor **drivstoffpunkter**, ikke utelukkende bemannede bensinstasjoner med biladkomst.
 
 YX: 275 oppføringer fra API-et brukt av operatørens eget kart, alle samsvarende med nettstedets sitemap; 274 med drivstoff. Uno-X: primærkategori bensinstasjon eller truckstopp i operatørens PinMeTo-publisering; dette er kategoribasert dokumentasjon, ikke individuell produktkontroll. Circle K: 445 av 460 publiserte punkter har flytende drivstoff. Bunker Oil: 76 kartpunkter; operatøren omtaler flere, så kartet er ikke komplett. Kildene er bevart i `data/`.
 
-Fullstendige Esso- og St1-nett samt alle uavhengige utsalg inngår ikke. Derfor vil flere av de oransje områdene kunne dekkes når nye stasjoner legges til. Det er ikke faglig grunnlag for å kalle disse områdene «uten bensinstasjon innen 40 km».
+Registeret mangler fullstendige nett for Esso og St1 samt flere uavhengige utsalg. Oransje kryss i [oversiktskartet](dekningskart-40km.png) viser derfor ruter som trenger videre kontroll. Flere kan bli dekket når manglende stasjoner legges til.
 
-## Områder som må avklares før man hevder full dekning
+## Områder for videre kontroll
 
 - **Røst/Værøy:** rutenettet på Røst ligger ca. 62–65 km fra Reine i dette uttrekket. Værøy har dokumentert drivstoffinfrastruktur, men eksakt kandidatkoordinat er ikke lagt inn. Det må testes mot Røst før man krever eget Røst-punkt. [Værøy kommunes brosjyre](https://varoy.kommune.no/_f/p1/i991aeac6-4edd-44fb-9461-39bf689098a7/touristbrochure-2024-english.pdf).
 - **Sørøya/Hasvik–Breivikbotn:** flere bebodde ruter har over 40 km til kartlagte stasjoner utenfor øya. Lokale og andre kjeders utsalg må innhentes før dette kalles et reelt hull.
@@ -86,4 +106,4 @@ Fullstendige Esso- og St1-nett samt alle uavhengige utsalg inngår ikke. Derfor 
 - **Steigen og enkelte fjordområder i Nordland:** manglende kjeder kan forklare udekkede ruter; lokal kontroll kreves.
 - **Øvre Pasvik og indre Finnmark:** de ytterste befolkede rutene må avstandstestes mot lokale utsalg, ikke bare Hesseng, Alta og Kautokeino.
 
-Dette er områder for videre kontroll, ikke en liste over dokumentert fravær av drivstoffinfrastruktur. Alle resterende ruter ligger i `data/unresolved-cells.json`.
+Den fullstendige listen over uavklarte ruter, med nærmeste kjente kandidat og avstand, ligger i [data/unresolved-cells.json](data/unresolved-cells.json).
