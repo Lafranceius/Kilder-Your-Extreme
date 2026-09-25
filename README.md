@@ -1,6 +1,8 @@
 # Kilder Your Extreme
 
-Datagrunnlag og geografisk studie bak [Second Signal-nettstedet](https://kongsberg.bighiro6.com). Øyeblikksbilde publisert 25. september 2026; kildene ble undersøkt 24. september 2026.
+Datagrunnlag og geografisk studie bak [Second Signa sin nettside](https://kongsberg.bighiro6.com). 
+
+Øyeblikksbilde publisert 25. september 2026; kildene ble undersøkt 24. september 2026.
 
 Dette repositoriet inneholder forskningsnotater, kildeuttrekk og data brukt i nettstedet og beregningene bak det. Nettsidens programkode og drift er ikke inkludert.
 
@@ -39,10 +41,6 @@ Dette er en geografisk mulighetsstudie. Den dokumenterer ikke radiodekning, oper
 ---
 
 # Kartlegging av 40 km dekning fra drivstoffpunkter i Norge
-
-Undersøkt 24. september 2026. Forutsetning: ballongen har 40 km luftlinjeradius, med dekningssenter over plasseringen. Teknologiens egnethet vurderes ikke.
-
-## Svar
 
 **Drivstoffpunkter kan geografisk dekke svært mye av bosetningen, men det er ikke dokumentert at alle bebodde områder i Norge har en bensinstasjon innen 40 km.** Beregningen nedenfor er en landsdekkende screening av Fastlands-Norge med øyer. Den er ikke en ferdig beredskapsplan eller et fullstendig stasjonsregister.
 
@@ -88,9 +86,3 @@ Fullstendige Esso- og St1-nett samt alle uavhengige utsalg inngår ikke. Derfor 
 - **Øvre Pasvik og indre Finnmark:** de ytterste befolkede rutene må avstandstestes mot lokale utsalg, ikke bare Hesseng, Alta og Kautokeino.
 
 Dette er områder for videre kontroll, ikke en liste over dokumentert fravær av drivstoffinfrastruktur. Alle resterende ruter ligger i `data/unresolved-cells.json`.
-
-## Hva kritisk dekning betyr for casen
-
-Analysen viser **én geografisk dekning**. Den dokumenterer ikke at dekningen overlever bortfall av en ballong, at stasjonen har tilgjengelig areal, eller at energiforsyning og forbindelsen videre i nettet er på plass. Dersom kritikalitet innebærer at én ballong kan falle ut, må hver prioritert rute dekkes av minst to uavhengige ballonger; tallet 147 er ikke dimensjonert for dette.
-
-Ubebodde arealer er ikke dekningsmål. Bebodde øyer og småbygder er med. Svalbard er ikke med i denne beregningen og må analyseres separat hvis det inngår i «hele Norge».
