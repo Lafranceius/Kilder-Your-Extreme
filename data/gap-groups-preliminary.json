@@ -1,0 +1,263 @@
+[
+  {
+    "group": 1,
+    "cells": 286,
+    "population": 4702,
+    "lat": 67.83231789574998,
+    "lon": 15.985615606644268,
+    "max_km": 65.649,
+    "station": "YX Lødingen"
+  },
+  {
+    "group": 6,
+    "cells": 212,
+    "population": 4229,
+    "lat": 66.75004703812829,
+    "lon": 13.331266602460946,
+    "max_km": 59.879,
+    "station": "Uno-X Truck Mo i Rana"
+  },
+  {
+    "group": 5,
+    "cells": 46,
+    "population": 3267,
+    "lat": 69.32040792373007,
+    "lon": 16.129168128326423,
+    "max_km": 60.582,
+    "station": "YX Harstad (automat)"
+  },
+  {
+    "group": 16,
+    "cells": 21,
+    "population": 2828,
+    "lat": 70.97122432293543,
+    "lon": 26.00435124938821,
+    "max_km": 47.842,
+    "station": "CIRCLE K AUTOMAT KJØLLEFJORD"
+  },
+  {
+    "group": 11,
+    "cells": 49,
+    "population": 1814,
+    "lat": 63.28854905003587,
+    "lon": 11.89852013667869,
+    "max_km": 52.418,
+    "station": "Uno-X Hell"
+  },
+  {
+    "group": 9,
+    "cells": 113,
+    "population": 1455,
+    "lat": 64.17986348525311,
+    "lon": 10.026731677738557,
+    "max_km": 55.025,
+    "station": "CIRCLE K AUTOMAT LAUVSNES"
+  },
+  {
+    "group": 0,
+    "cells": 170,
+    "population": 1375,
+    "lat": 65.44811162787447,
+    "lon": 14.471581918083572,
+    "max_km": 72.712,
+    "station": "Uno-X 7-Eleven Mosjøen"
+  },
+  {
+    "group": 4,
+    "cells": 27,
+    "population": 974,
+    "lat": 70.62618070429426,
+    "lon": 21.968411541432854,
+    "max_km": 62.774,
+    "station": "Uno-X Hammerfest"
+  },
+  {
+    "group": 18,
+    "cells": 16,
+    "population": 797,
+    "lat": 63.5175956624915,
+    "lon": 7.964720772807205,
+    "max_km": 45.076,
+    "station": "Bunker Oil Kristiansund"
+  },
+  {
+    "group": 12,
+    "cells": 52,
+    "population": 713,
+    "lat": 59.03278968645247,
+    "lon": 7.559510213739643,
+    "max_km": 52.003,
+    "station": "YX Dalen øst"
+  },
+  {
+    "group": 2,
+    "cells": 10,
+    "population": 458,
+    "lat": 67.50362142100681,
+    "lon": 12.059891924032108,
+    "max_km": 64.869,
+    "station": "CIRCLE K REINE"
+  },
+  {
+    "group": 21,
+    "cells": 15,
+    "population": 423,
+    "lat": 69.29529064763464,
+    "lon": 16.939087873975453,
+    "max_km": 42.338,
+    "station": "CIRCLE K FINNSNES"
+  },
+  {
+    "group": 8,
+    "cells": 24,
+    "population": 261,
+    "lat": 69.48232887610732,
+    "lon": 23.73029435089798,
+    "max_km": 56.601,
+    "station": "CIRCLE K ELVEBAKKEN"
+  },
+  {
+    "group": 15,
+    "cells": 21,
+    "population": 126,
+    "lat": 62.22196188121022,
+    "lon": 12.008607505303964,
+    "max_km": 47.858,
+    "station": "CIRCLE K AUTOMAT BREKKEN"
+  },
+  {
+    "group": 14,
+    "cells": 14,
+    "population": 79,
+    "lat": 64.06392150676201,
+    "lon": 14.02661844670887,
+    "max_km": 49.273,
+    "station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "group": 19,
+    "cells": 7,
+    "population": 59,
+    "lat": 70.33800373162684,
+    "lon": 22.834652874271235,
+    "max_km": 44.762,
+    "station": "YX Bossekop"
+  },
+  {
+    "group": 3,
+    "cells": 13,
+    "population": 48,
+    "lat": 69.20161005756609,
+    "lon": 29.151291856565713,
+    "max_km": 63.35,
+    "station": "CIRCLE K HESSENG"
+  },
+  {
+    "group": 26,
+    "cells": 5,
+    "population": 35,
+    "lat": 65.00089041858269,
+    "lon": 12.189398545790812,
+    "max_km": 40.949,
+    "station": "CIRCLE K AUTOMAT BERG"
+  },
+  {
+    "group": 23,
+    "cells": 7,
+    "population": 29,
+    "lat": 59.02208332794026,
+    "lon": 6.932094449053645,
+    "max_km": 41.575,
+    "station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "group": 10,
+    "cells": 7,
+    "population": 18,
+    "lat": 69.91052649215464,
+    "lon": 27.054618360527574,
+    "max_km": 53.76,
+    "station": "Uno-X Truck Tana"
+  },
+  {
+    "group": 20,
+    "cells": 4,
+    "population": 14,
+    "lat": 66.44483966755986,
+    "lon": 15.123333342656581,
+    "max_km": 42.9,
+    "station": "YX Saltdal"
+  },
+  {
+    "group": 13,
+    "cells": 3,
+    "population": 13,
+    "lat": 68.77417798029772,
+    "lon": 19.718794370787105,
+    "max_km": 49.849,
+    "station": "CIRCLE K E6 NORDKJOSBOTN"
+  },
+  {
+    "group": 24,
+    "cells": 2,
+    "population": 11,
+    "lat": 69.75934677090781,
+    "lon": 26.17781851555138,
+    "max_km": 41.288,
+    "station": "CIRCLE K KARASJOK"
+  },
+  {
+    "group": 22,
+    "cells": 3,
+    "population": 4,
+    "lat": 70.36591421494099,
+    "lon": 21.45034378685563,
+    "max_km": 41.936,
+    "station": "St1 Skjervøy"
+  },
+  {
+    "group": 25,
+    "cells": 2,
+    "population": 4,
+    "lat": 70.03292702056046,
+    "lon": 18.557152856980064,
+    "max_km": 40.995,
+    "station": "Bunker Oil Hansnes"
+  },
+  {
+    "group": 27,
+    "cells": 1,
+    "population": 4,
+    "lat": 61.55919836642077,
+    "lon": 7.752779105206632,
+    "max_km": 40.822,
+    "station": "YX Hafslo"
+  },
+  {
+    "group": 28,
+    "cells": 1,
+    "population": 3,
+    "lat": 60.93307329864227,
+    "lon": 8.192579388913897,
+    "max_km": 39.427,
+    "station": "CIRCLE K TRUCK LÆRDAL"
+  },
+  {
+    "group": 7,
+    "cells": 2,
+    "population": 2,
+    "lat": 69.93243559537406,
+    "lon": 26.45693022932319,
+    "max_km": 58.413,
+    "station": "CIRCLE K LAKSELV"
+  },
+  {
+    "group": 17,
+    "cells": 1,
+    "population": 1,
+    "lat": 69.12681262392385,
+    "lon": 24.78057691028202,
+    "max_km": 47.545,
+    "station": "YX Karasjok"
+  }
+]

@@ -1,0 +1,2922 @@
+[
+  {
+    "id": "23740007490000",
+    "population": 9,
+    "x": 374499.999998,
+    "y": 7490499.999883,
+    "lat": 67.50362142100681,
+    "lon": 12.059891924032108,
+    "nearest_km": 64.869,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "23750007490000",
+    "population": 21,
+    "x": 375499.999998,
+    "y": 7490499.999883,
+    "lat": 67.5040448050956,
+    "lon": 12.08328142984988,
+    "nearest_km": 64.173,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "23740007491000",
+    "population": 13,
+    "x": 374499.999998,
+    "y": 7491499.999883,
+    "lat": 67.51257947862278,
+    "lon": 12.05878162620972,
+    "nearest_km": 64.158,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "23750007491000",
+    "population": 43,
+    "x": 375499.999998,
+    "y": 7491499.999883,
+    "lat": 67.51300304940686,
+    "lon": 12.08217993412276,
+    "nearest_km": 63.454,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "30560007741000",
+    "population": 1,
+    "x": 1056500.000008,
+    "y": 7741499.999885,
+    "lat": 69.20161005756609,
+    "lon": 29.151291856565713,
+    "nearest_km": 63.35,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "27570007850000",
+    "population": 55,
+    "x": 757500.000004,
+    "y": 7850499.999886,
+    "lat": 70.62618070429426,
+    "lon": 21.968411541432854,
+    "nearest_km": 62.774,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "23760007491000",
+    "population": 153,
+    "x": 376499.999998,
+    "y": 7491499.999883,
+    "lat": 67.51342324120226,
+    "lon": 12.105579144959764,
+    "nearest_km": 62.759,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "27570007851000",
+    "population": 42,
+    "x": 757500.000004,
+    "y": 7851499.999886,
+    "lat": 70.63508101326751,
+    "lon": 21.97150431404352,
+    "nearest_km": 62.607,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "30560007742000",
+    "population": 10,
+    "x": 1056500.000008,
+    "y": 7742499.999885,
+    "lat": 69.21030580175729,
+    "lon": 29.157061818120113,
+    "nearest_km": 62.4,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "23770007491000",
+    "population": 42,
+    "x": 377499.999998,
+    "y": 7491499.999883,
+    "lat": 67.51384005377867,
+    "lon": 12.128979251538782,
+    "nearest_km": 62.071,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "23760007492000",
+    "population": 35,
+    "x": 376499.999998,
+    "y": 7492499.999883,
+    "lat": 67.52238165208777,
+    "lon": 12.104485556659707,
+    "nearest_km": 62.04,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "27580007850000",
+    "population": 13,
+    "x": 758500.000004,
+    "y": 7850499.999886,
+    "lat": 70.62515249773394,
+    "lon": 21.99522027951612,
+    "nearest_km": 61.79,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "27580007851000",
+    "population": 61,
+    "x": 758500.000004,
+    "y": 7851499.999886,
+    "lat": 70.63405229747424,
+    "lon": 21.998324713471035,
+    "nearest_km": 61.621,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "30560007743000",
+    "population": 1,
+    "x": 1056500.000008,
+    "y": 7743499.999885,
+    "lat": 69.21900131614376,
+    "lon": 29.162836723391365,
+    "nearest_km": 61.452,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "23770007492000",
+    "population": 131,
+    "x": 377499.999998,
+    "y": 7492499.999883,
+    "lat": 67.52279864853233,
+    "lon": 12.12789447465734,
+    "nearest_km": 61.345,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "23780007492000",
+    "population": 1,
+    "x": 378499.999998,
+    "y": 7492499.999883,
+    "lat": 67.52321226404514,
+    "lon": 12.15130428227212,
+    "nearest_km": 60.658,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "27590007851000",
+    "population": 32,
+    "x": 759500.000004,
+    "y": 7851499.999886,
+    "lat": 70.6330196579796,
+    "lon": 22.025142200237674,
+    "nearest_km": 60.634,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "23770007493000",
+    "population": 10,
+    "x": 377499.999998,
+    "y": 7493499.999883,
+    "lat": 67.53175722477924,
+    "lon": 12.12680880815847,
+    "nearest_km": 60.626,
+    "nearest_station": "CIRCLE K REINE"
+  },
+  {
+    "id": "27600007849000",
+    "population": 1,
+    "x": 760500.000004,
+    "y": 7849499.999886,
+    "lat": 70.61418547552663,
+    "lon": 22.04570420425741,
+    "nearest_km": 60.015,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "27650007835000",
+    "population": 32,
+    "x": 765500.000004,
+    "y": 7835499.999886,
+    "lat": 70.48439406879821,
+    "lon": 22.135365808127005,
+    "nearest_km": 59.736,
+    "nearest_station": "CIRCLE K RYPEFJORD"
+  },
+  {
+    "id": "27650007836000",
+    "population": 28,
+    "x": 765500.000004,
+    "y": 7836499.999886,
+    "lat": 70.49329130813773,
+    "lon": 22.13850744216032,
+    "nearest_km": 59.315,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "27660007834000",
+    "population": 5,
+    "x": 766500.000004,
+    "y": 7834499.999886,
+    "lat": 70.47444552630918,
+    "lon": 22.15882762956978,
+    "nearest_km": 59.241,
+    "nearest_station": "CIRCLE K RYPEFJORD"
+  },
+  {
+    "id": "27650007837000",
+    "population": 22,
+    "x": 765500.000004,
+    "y": 7837499.999886,
+    "lat": 70.50218847757026,
+    "lon": 22.141652002577136,
+    "nearest_km": 58.902,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "27660007835000",
+    "population": 213,
+    "x": 766500.000004,
+    "y": 7835499.999886,
+    "lat": 70.48334231841608,
+    "lon": 22.16197780303168,
+    "nearest_km": 58.824,
+    "nearest_station": "CIRCLE K RYPEFJORD"
+  },
+  {
+    "id": "30560007746000",
+    "population": 2,
+    "x": 1056500.000008,
+    "y": 7746499.999885,
+    "lat": 69.24508647773233,
+    "lon": 29.180191162236554,
+    "nearest_km": 58.616,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "27650007838000",
+    "population": 2,
+    "x": 765500.000004,
+    "y": 7838499.999886,
+    "lat": 70.51108557701556,
+    "lon": 22.14479949335762,
+    "nearest_km": 58.503,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "29360007799000",
+    "population": 1,
+    "x": 936500.000006,
+    "y": 7799499.999886,
+    "lat": 69.93243559537406,
+    "lon": 26.45693022932319,
+    "nearest_km": 58.413,
+    "nearest_station": "CIRCLE K LAKSELV"
+  },
+  {
+    "id": "27660007836000",
+    "population": 86,
+    "x": 766500.000004,
+    "y": 7836499.999886,
+    "lat": 70.49223904024643,
+    "lon": 22.165130909254373,
+    "nearest_km": 58.41,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "30570007746000",
+    "population": 2,
+    "x": 1057500.000008,
+    "y": 7746499.999885,
+    "lat": 69.24303040620403,
+    "lon": 29.20470352112652,
+    "nearest_km": 58.3,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "27620007848000",
+    "population": 3,
+    "x": 762500.000004,
+    "y": 7848499.999886,
+    "lat": 70.60320476386923,
+    "lon": 22.09613280952543,
+    "nearest_km": 58.271,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "27670007835000",
+    "population": 29,
+    "x": 767500.000004,
+    "y": 7835499.999886,
+    "lat": 70.48228668015476,
+    "lon": 22.18858686517674,
+    "nearest_km": 57.914,
+    "nearest_station": "CIRCLE K RYPEFJORD"
+  },
+  {
+    "id": "29350007796000",
+    "population": 1,
+    "x": 935500.000006,
+    "y": 7796499.999886,
+    "lat": 69.90773795977073,
+    "lon": 26.416769676325735,
+    "nearest_km": 57.658,
+    "nearest_station": "CIRCLE K LAKSELV"
+  },
+  {
+    "id": "27630007847000",
+    "population": 4,
+    "x": 763500.000004,
+    "y": 7847499.999886,
+    "lat": 70.59326055613238,
+    "lon": 22.119749839549993,
+    "nearest_km": 57.531,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "27670007836000",
+    "population": 6,
+    "x": 767500.000004,
+    "y": 7836499.999886,
+    "lat": 70.49118288261694,
+    "lon": 22.191751439602346,
+    "nearest_km": 57.504,
+    "nearest_station": "CIRCLE K RYPEFJORD"
+  },
+  {
+    "id": "27630007848000",
+    "population": 2,
+    "x": 763500.000004,
+    "y": 7848499.999886,
+    "lat": 70.60215799152735,
+    "lon": 22.12290364740013,
+    "nearest_km": 57.297,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "28400007732000",
+    "population": 1,
+    "x": 840500.000005,
+    "y": 7732499.999885,
+    "lat": 69.48232887610732,
+    "lon": 23.73029435089798,
+    "nearest_km": 56.601,
+    "nearest_station": "CIRCLE K ELVEBAKKEN"
+  },
+  {
+    "id": "28390007730000",
+    "population": 8,
+    "x": 839500.000005,
+    "y": 7730499.999885,
+    "lat": 69.46587281586913,
+    "lon": 23.697782785821556,
+    "nearest_km": 55.868,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "27670007842000",
+    "population": 1,
+    "x": 767500.000004,
+    "y": 7842499.999886,
+    "lat": 70.54455860754835,
+    "lon": 22.210800915840977,
+    "nearest_km": 55.172,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "28390007729000",
+    "population": 19,
+    "x": 839500.000005,
+    "y": 7729499.999885,
+    "lat": 69.45700815120803,
+    "lon": 23.69416682607044,
+    "nearest_km": 54.928,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "27690007839000",
+    "population": 6,
+    "x": 769500.000004,
+    "y": 7839499.999886,
+    "lat": 70.51574394490629,
+    "lon": 22.254563968011098,
+    "nearest_km": 54.437,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "27680007842000",
+    "population": 5,
+    "x": 768500.000004,
+    "y": 7842499.999886,
+    "lat": 70.54349542401722,
+    "lon": 22.237487502112664,
+    "nearest_km": 54.234,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "28390007728000",
+    "population": 33,
+    "x": 839500.000005,
+    "y": 7728499.999885,
+    "lat": 69.4481433919383,
+    "lon": 23.69055405791658,
+    "nearest_km": 53.989,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "29590007801000",
+    "population": 2,
+    "x": 959500.000007,
+    "y": 7801499.999886,
+    "lat": 69.91052649215464,
+    "lon": 27.054618360527574,
+    "nearest_km": 53.76,
+    "nearest_station": "Uno-X Truck Tana"
+  },
+  {
+    "id": "28380007728000",
+    "population": 66,
+    "x": 838500.000005,
+    "y": 7728499.999885,
+    "lat": 69.44941034281919,
+    "lon": 23.66532151879777,
+    "nearest_km": 53.652,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "27680007845000",
+    "population": 2,
+    "x": 768500.000004,
+    "y": 7845499.999886,
+    "lat": 70.57018075043409,
+    "lon": 22.24708693990241,
+    "nearest_km": 53.261,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "28380007727000",
+    "population": 14,
+    "x": 838500.000005,
+    "y": 7727499.999885,
+    "lat": 69.44054489465523,
+    "lon": 23.661722096494127,
+    "nearest_km": 52.71,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "28600007722000",
+    "population": 1,
+    "x": 860500.000005,
+    "y": 7722499.999885,
+    "lat": 69.36758314933351,
+    "lon": 24.19680658156327,
+    "nearest_km": 52.567,
+    "nearest_station": "YX Karasjok"
+  },
+  {
+    "id": "25000007517000",
+    "population": 254,
+    "x": 500500.0,
+    "y": 7517499.999883,
+    "lat": 67.77249574760815,
+    "lon": 15.01184415184595,
+    "nearest_km": 52.366,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24980007519000",
+    "population": 10,
+    "x": 498500.0,
+    "y": 7519499.999883,
+    "lat": 67.79043144492351,
+    "lon": 14.964440327985313,
+    "nearest_km": 52.333,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24930007518000",
+    "population": 3,
+    "x": 493500.0,
+    "y": 7518499.999883,
+    "lat": 67.7813931983811,
+    "lon": 14.845967415811183,
+    "nearest_km": 52.33,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "25010007516000",
+    "population": 61,
+    "x": 501500.0,
+    "y": 7516499.999883,
+    "lat": 67.76352273485351,
+    "lon": 15.035518858585247,
+    "nearest_km": 52.27,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "28600007723000",
+    "population": 14,
+    "x": 860500.000005,
+    "y": 7723499.999885,
+    "lat": 69.37643566665454,
+    "lon": 24.20061176379896,
+    "nearest_km": 52.211,
+    "nearest_station": "YX Karasjok"
+  },
+  {
+    "id": "28530007718000",
+    "population": 2,
+    "x": 853500.000005,
+    "y": 7718499.999885,
+    "lat": 69.34145557572592,
+    "lon": 24.006105497738922,
+    "nearest_km": 52.169,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "24920007518000",
+    "population": 2,
+    "x": 492500.0,
+    "y": 7518499.999883,
+    "lat": 67.78136915818419,
+    "lon": 14.82227022691223,
+    "nearest_km": 52.122,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "24980007515000",
+    "population": 2,
+    "x": 498500.0,
+    "y": 7515499.999883,
+    "lat": 67.75455314496145,
+    "lon": 14.964494723342357,
+    "nearest_km": 51.911,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24950007519000",
+    "population": 14,
+    "x": 495500.0,
+    "y": 7519499.999883,
+    "lat": 67.790400522207,
+    "lon": 14.893321085711777,
+    "nearest_km": 51.834,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "27690007847000",
+    "population": 237,
+    "x": 769500.000004,
+    "y": 7847499.999886,
+    "lat": 70.58690088918355,
+    "lon": 22.280242901244833,
+    "nearest_km": 51.733,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "25010007517000",
+    "population": 65,
+    "x": 501500.0,
+    "y": 7517499.999883,
+    "lat": 67.77249231480907,
+    "lon": 15.03553245177823,
+    "nearest_km": 51.692,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25000007518000",
+    "population": 9,
+    "x": 500500.0,
+    "y": 7518499.999883,
+    "lat": 67.7814653191606,
+    "lon": 15.011848686671437,
+    "nearest_km": 51.636,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24990007519000",
+    "population": 10,
+    "x": 499500.0,
+    "y": 7519499.999883,
+    "lat": 67.79043488078415,
+    "lon": 14.988146774738848,
+    "nearest_km": 51.62,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28520007718000",
+    "population": 2,
+    "x": 852500.000005,
+    "y": 7718499.999885,
+    "lat": 69.34276733236644,
+    "lon": 23.98101898367004,
+    "nearest_km": 51.549,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "28580007734000",
+    "population": 1,
+    "x": 858500.000005,
+    "y": 7734499.999885,
+    "lat": 69.47649701767493,
+    "lon": 24.19223823745904,
+    "nearest_km": 51.441,
+    "nearest_station": "YX Karasjok"
+  },
+  {
+    "id": "28370007726000",
+    "population": 8,
+    "x": 837500.000005,
+    "y": 7726499.999885,
+    "lat": 69.43294147269378,
+    "lon": 23.63291044725837,
+    "nearest_km": 51.437,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "25030007516000",
+    "population": 4,
+    "x": 503500.0,
+    "y": 7516499.999883,
+    "lat": 67.7635055785128,
+    "lon": 15.082877292889306,
+    "nearest_km": 51.143,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24990007514000",
+    "population": 7,
+    "x": 499500.0,
+    "y": 7514499.999883,
+    "lat": 67.7455869733453,
+    "lon": 14.988169430090712,
+    "nearest_km": 51.124,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "25000007514000",
+    "population": 5,
+    "x": 500500.0,
+    "y": 7514499.999883,
+    "lat": 67.7455869733453,
+    "lon": 15.011830569909254,
+    "nearest_km": 50.985,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "24990007520000",
+    "population": 5,
+    "x": 499500.0,
+    "y": 7520499.999883,
+    "lat": 67.79940443248188,
+    "lon": 14.988142232380422,
+    "nearest_km": 50.919,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25000007519000",
+    "population": 19,
+    "x": 500500.0,
+    "y": 7519499.999883,
+    "lat": 67.79043488078415,
+    "lon": 15.011853225261119,
+    "nearest_km": 50.916,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "27700007847000",
+    "population": 9,
+    "x": 770500.000004,
+    "y": 7847499.999886,
+    "lat": 70.58582726216459,
+    "lon": 22.306981262100347,
+    "nearest_km": 50.771,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "28520007717000",
+    "population": 6,
+    "x": 852500.000005,
+    "y": 7717499.999885,
+    "lat": 69.33390935167591,
+    "lon": 23.977310472097294,
+    "nearest_km": 50.765,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "28600007754000",
+    "population": 1,
+    "x": 860500.000005,
+    "y": 7754499.999885,
+    "lat": 69.65081133682575,
+    "lon": 24.320252689638032,
+    "nearest_km": 50.51,
+    "nearest_station": "CIRCLE K KARASJOK"
+  },
+  {
+    "id": "27700007848000",
+    "population": 70,
+    "x": 770500.000004,
+    "y": 7848499.999886,
+    "lat": 70.59472102376908,
+    "lon": 22.310216223393557,
+    "nearest_km": 50.506,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "25010007514000",
+    "population": 19,
+    "x": 501500.0,
+    "y": 7514499.999883,
+    "lat": 67.74558354512973,
+    "lon": 15.035491705981732,
+    "nearest_km": 50.501,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "28370007725000",
+    "population": 59,
+    "x": 837500.000005,
+    "y": 7725499.999885,
+    "lat": 69.42407524502903,
+    "lon": 23.629327515911505,
+    "nearest_km": 50.493,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "27700007849000",
+    "population": 5,
+    "x": 770500.000004,
+    "y": 7849499.999886,
+    "lat": 70.60361471219083,
+    "lon": 22.313454211872784,
+    "nearest_km": 50.259,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "25010007519000",
+    "population": 17,
+    "x": 501500.0,
+    "y": 7519499.999883,
+    "lat": 67.79043144492351,
+    "lon": 15.035559672014653,
+    "nearest_km": 50.222,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "29610007804000",
+    "population": 1,
+    "x": 961500.000007,
+    "y": 7804499.999886,
+    "lat": 69.9333043785436,
+    "lon": 27.12106150053104,
+    "nearest_km": 50.184,
+    "nearest_station": "Uno-X Truck Tana"
+  },
+  {
+    "id": "24920007520000",
+    "population": 2,
+    "x": 492500.0,
+    "y": 7520499.999883,
+    "lat": 67.79930818571735,
+    "lon": 14.822134013965409,
+    "nearest_km": 50.162,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "28600007752000",
+    "population": 1,
+    "x": 860500.000005,
+    "y": 7752499.999885,
+    "lat": 69.63311277794745,
+    "lon": 24.31243441122711,
+    "nearest_km": 50.064,
+    "nearest_station": "CIRCLE K KARASJOK"
+  },
+  {
+    "id": "25040007515000",
+    "population": 1,
+    "x": 504500.0,
+    "y": 7515499.999883,
+    "lat": 67.75452227731023,
+    "lon": 15.106515728707178,
+    "nearest_km": 50.05,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25020007514000",
+    "population": 1,
+    "x": 502500.0,
+    "y": 7514499.999883,
+    "lat": 67.74557668870057,
+    "lon": 15.059152830816009,
+    "nearest_km": 50.033,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25050007516000",
+    "population": 13,
+    "x": 505500.0,
+    "y": 7516499.999883,
+    "lat": 67.76347469713988,
+    "lon": 15.130235622050591,
+    "nearest_km": 49.893,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "26900007636000",
+    "population": 6,
+    "x": 690500.000003,
+    "y": 7636499.999884,
+    "lat": 68.77417798029772,
+    "lon": 19.718794370787105,
+    "nearest_km": 49.849,
+    "nearest_station": "CIRCLE K E6 NORDKJOSBOTN"
+  },
+  {
+    "id": "25050007515000",
+    "population": 6,
+    "x": 505500.0,
+    "y": 7515499.999883,
+    "lat": 67.7545051286375,
+    "lon": 15.130185821881646,
+    "nearest_km": 49.639,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25010007513000",
+    "population": 4,
+    "x": 501500.0,
+    "y": 7513499.999883,
+    "lat": 67.73661393535518,
+    "lon": 15.035478146544055,
+    "nearest_km": 49.623,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25020007519000",
+    "population": 19,
+    "x": 502500.0,
+    "y": 7519499.999883,
+    "lat": 67.79042457320423,
+    "lon": 15.059266107461973,
+    "nearest_km": 49.539,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24950007513000",
+    "population": 12,
+    "x": 495500.0,
+    "y": 7513499.999883,
+    "lat": 67.73658309517349,
+    "lon": 14.893565661389573,
+    "nearest_km": 49.462,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24930007521000",
+    "population": 3,
+    "x": 493500.0,
+    "y": 7521499.999883,
+    "lat": 67.80830175692877,
+    "lon": 14.84579026501731,
+    "nearest_km": 49.405,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "24940007513000",
+    "population": 45,
+    "x": 494500.0,
+    "y": 7513499.999883,
+    "lat": 67.73656596176156,
+    "lon": 14.869913654737683,
+    "nearest_km": 49.341,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "25060007516000",
+    "population": 12,
+    "x": 506500.0,
+    "y": 7516499.999883,
+    "lat": 67.76345410958676,
+    "lon": 15.15391472842746,
+    "nearest_km": 49.286,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24520007104000",
+    "population": 2,
+    "x": 452499.999999,
+    "y": 7104499.999879,
+    "lat": 64.06392150676201,
+    "lon": 14.02661844670887,
+    "nearest_km": 49.273,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "24930007513000",
+    "population": 43,
+    "x": 493500.0,
+    "y": 7513499.999883,
+    "lat": 67.73654540168832,
+    "lon": 14.846261689242503,
+    "nearest_km": 49.24,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24920007521000",
+    "population": 6,
+    "x": 492500.0,
+    "y": 7521499.999883,
+    "lat": 67.80827768454911,
+    "lon": 14.822065822628499,
+    "nearest_km": 49.184,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "30590007755000",
+    "population": 1,
+    "x": 1059500.000008,
+    "y": 7755499.999886,
+    "lat": 69.31712542878817,
+    "lon": 29.306294068470752,
+    "nearest_km": 49.161,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "24920007513000",
+    "population": 30,
+    "x": 492500.0,
+    "y": 7513499.999883,
+    "lat": 67.73652141496524,
+    "lon": 14.822609772386887,
+    "nearest_km": 49.159,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24910007513000",
+    "population": 99,
+    "x": 491500.0,
+    "y": 7513499.999883,
+    "lat": 67.73649400160572,
+    "lon": 14.798957911653586,
+    "nearest_km": 49.098,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24900007513000",
+    "population": 55,
+    "x": 490500.0,
+    "y": 7513499.999883,
+    "lat": 67.73646316162514,
+    "lon": 14.775306114525252,
+    "nearest_km": 49.057,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24910007521000",
+    "population": 4,
+    "x": 491500.0,
+    "y": 7521499.999883,
+    "lat": 67.80825017329677,
+    "lon": 14.798341436906572,
+    "nearest_km": 48.983,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "26900007637000",
+    "population": 3,
+    "x": 690500.000003,
+    "y": 7637499.999884,
+    "lat": 68.78311604828843,
+    "lon": 19.720693127465044,
+    "nearest_km": 48.871,
+    "nearest_station": "CIRCLE K E6 NORDKJOSBOTN"
+  },
+  {
+    "id": "25070007515000",
+    "population": 4,
+    "x": 507500.0,
+    "y": 7515499.999883,
+    "lat": 67.75446054216329,
+    "lon": 15.177525876961468,
+    "nearest_km": 48.866,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25020007520000",
+    "population": 10,
+    "x": 502500.0,
+    "y": 7520499.999883,
+    "lat": 67.79939412030441,
+    "lon": 15.059288819231313,
+    "nearest_km": 48.808,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25080007515000",
+    "population": 21,
+    "x": 508500.0,
+    "y": 7515499.999883,
+    "lat": 67.75443310438675,
+    "lon": 15.201195823865085,
+    "nearest_km": 48.506,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25060007517000",
+    "population": 23,
+    "x": 506500.0,
+    "y": 7517499.999883,
+    "lat": 67.7724236589623,
+    "lon": 15.153973631870722,
+    "nearest_km": 48.49,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24950007512000",
+    "population": 37,
+    "x": 495500.0,
+    "y": 7512499.999883,
+    "lat": 67.72761348917194,
+    "lon": 14.893606305906966,
+    "nearest_km": 48.471,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "25030007520000",
+    "population": 3,
+    "x": 503500.0,
+    "y": 7520499.999883,
+    "lat": 67.79938380813273,
+    "lon": 15.083004320510804,
+    "nearest_km": 48.125,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25080007516000",
+    "population": 4,
+    "x": 508500.0,
+    "y": 7516499.999883,
+    "lat": 67.76340264080487,
+    "lon": 15.201272787223816,
+    "nearest_km": 48.113,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24910007512000",
+    "population": 3,
+    "x": 491500.0,
+    "y": 7512499.999883,
+    "lat": 67.72752443523656,
+    "lon": 14.799034683967106,
+    "nearest_km": 48.099,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24900007512000",
+    "population": 92,
+    "x": 490500.0,
+    "y": 7512499.999883,
+    "lat": 67.72749360897475,
+    "lon": 14.775391918618858,
+    "nearest_km": 48.057,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "25070007514000",
+    "population": 11,
+    "x": 507500.0,
+    "y": 7514499.999883,
+    "lat": 67.74549098355143,
+    "lon": 15.177458024192262,
+    "nearest_km": 47.937,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "30600007756000",
+    "population": 2,
+    "x": 1060500.000008,
+    "y": 7756499.999886,
+    "lat": 69.32373920574499,
+    "lon": 29.336750878201318,
+    "nearest_km": 47.899,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "25070007517000",
+    "population": 19,
+    "x": 507500.0,
+    "y": 7517499.999883,
+    "lat": 67.77239962947652,
+    "lon": 15.177661751341244,
+    "nearest_km": 47.886,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "23440006902000",
+    "population": 3,
+    "x": 344499.999998,
+    "y": 6902499.999878,
+    "lat": 62.22196188121022,
+    "lon": 12.008607505303964,
+    "nearest_km": 47.858,
+    "nearest_station": "CIRCLE K AUTOMAT BREKKEN"
+  },
+  {
+    "id": "28980007910000",
+    "population": 7,
+    "x": 898500.000006,
+    "y": 7910499.999887,
+    "lat": 70.97122432293543,
+    "lon": 26.00435124938821,
+    "nearest_km": 47.842,
+    "nearest_station": "CIRCLE K AUTOMAT KJØLLEFJORD"
+  },
+  {
+    "id": "28970007912000",
+    "population": 180,
+    "x": 897500.000006,
+    "y": 7912499.999887,
+    "lat": 70.9904443844196,
+    "lon": 25.987277848357365,
+    "nearest_km": 47.794,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "25060007518000",
+    "population": 2,
+    "x": 506500.0,
+    "y": 7518499.999883,
+    "lat": 67.7813931983811,
+    "lon": 15.154032584188782,
+    "nearest_km": 47.701,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28970007911000",
+    "population": 752,
+    "x": 897500.000006,
+    "y": 7911499.999887,
+    "lat": 70.98164244871302,
+    "lon": 25.982323458314095,
+    "nearest_km": 47.645,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "23560006895000",
+    "population": 3,
+    "x": 356499.999998,
+    "y": 6895499.999878,
+    "lat": 62.16398250576283,
+    "lon": 12.244847683231066,
+    "nearest_km": 47.564,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "25090007516000",
+    "population": 116,
+    "x": 509500.0,
+    "y": 7516499.999883,
+    "lat": 67.76337175960492,
+    "lon": 15.224951724623672,
+    "nearest_km": 47.546,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28870007699000",
+    "population": 1,
+    "x": 887500.000006,
+    "y": 7699499.999885,
+    "lat": 69.12681262392385,
+    "lon": 24.78057691028202,
+    "nearest_km": 47.545,
+    "nearest_station": "YX Karasjok"
+  },
+  {
+    "id": "28970007910000",
+    "population": 618,
+    "x": 897500.000006,
+    "y": 7910499.999887,
+    "lat": 70.97284035696825,
+    "lon": 25.977373741525554,
+    "nearest_km": 47.517,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "24950007511000",
+    "population": 3,
+    "x": 495500.0,
+    "y": 7511499.999883,
+    "lat": 67.71864387321071,
+    "lon": 14.893646916791116,
+    "nearest_km": 47.48,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "25030007521000",
+    "population": 3,
+    "x": 503500.0,
+    "y": 7521499.999883,
+    "lat": 67.80835334070572,
+    "lon": 15.083036143368973,
+    "nearest_km": 47.394,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24870007522000",
+    "population": 2,
+    "x": 487500.0,
+    "y": 7522499.999883,
+    "lat": 67.81707515203574,
+    "lon": 14.703330867022368,
+    "nearest_km": 47.382,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "24930007511000",
+    "population": 6,
+    "x": 493500.0,
+    "y": 7511499.999883,
+    "lat": 67.71860621324794,
+    "lon": 14.846379057726683,
+    "nearest_km": 47.248,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "28960007914000",
+    "population": 3,
+    "x": 896500.000006,
+    "y": 7914499.999887,
+    "lat": 71.00966312991939,
+    "lon": 25.97017217142821,
+    "nearest_km": 47.175,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "24920007511000",
+    "population": 3,
+    "x": 492500.0,
+    "y": 7511499.999883,
+    "lat": 67.71858224785721,
+    "lon": 14.822745197245823,
+    "nearest_km": 47.163,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "24910007523000",
+    "population": 15,
+    "x": 491500.0,
+    "y": 7523499.999883,
+    "lat": 67.82618911653931,
+    "lon": 14.798186677545843,
+    "nearest_km": 47.021,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "25070007513000",
+    "population": 2,
+    "x": 507500.0,
+    "y": 7513499.999883,
+    "lat": 67.73652141496524,
+    "lon": 15.17739022761308,
+    "nearest_km": 47.012,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "28960007913000",
+    "population": 359,
+    "x": 896500.000006,
+    "y": 7913499.999887,
+    "lat": 71.00086070284695,
+    "lon": 25.965220012771344,
+    "nearest_km": 46.981,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "25100007516000",
+    "population": 52,
+    "x": 510500.0,
+    "y": 7516499.999883,
+    "lat": 67.76333744722136,
+    "lon": 15.248630590678417,
+    "nearest_km": 46.946,
+    "nearest_station": "YX Drag"
+  },
+  {
+    "id": "28590007759000",
+    "population": 1,
+    "x": 859500.000005,
+    "y": 7759499.999885,
+    "lat": 69.69641890681983,
+    "lon": 24.31437914102108,
+    "nearest_km": 46.815,
+    "nearest_station": "YX Lakselv"
+  },
+  {
+    "id": "28960007912000",
+    "population": 260,
+    "x": 896500.000006,
+    "y": 7912499.999887,
+    "lat": 70.99205812003643,
+    "lon": 25.960272530048893,
+    "nearest_km": 46.809,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "29640007806000",
+    "population": 2,
+    "x": 964500.000007,
+    "y": 7806499.999886,
+    "lat": 69.94551136107405,
+    "lon": 27.208008362467098,
+    "nearest_km": 46.737,
+    "nearest_station": "Uno-X Truck Tana"
+  },
+  {
+    "id": "28990007911000",
+    "population": 225,
+    "x": 899500.000006,
+    "y": 7911499.999887,
+    "lat": 70.97840486949366,
+    "lon": 26.036296911364957,
+    "nearest_km": 46.73,
+    "nearest_station": "CIRCLE K AUTOMAT KJØLLEFJORD"
+  },
+  {
+    "id": "28960007911000",
+    "population": 47,
+    "x": 896500.000006,
+    "y": 7911499.999887,
+    "lat": 70.98325538168879,
+    "lon": 25.955329716856966,
+    "nearest_km": 46.657,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "25080007513000",
+    "population": 19,
+    "x": 508500.0,
+    "y": 7513499.999883,
+    "lat": 67.73649400160572,
+    "lon": 15.201042088346378,
+    "nearest_km": 46.638,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "28990007912000",
+    "population": 173,
+    "x": 899500.000006,
+    "y": 7912499.999887,
+    "lat": 70.98720519448563,
+    "lon": 26.041274435884574,
+    "nearest_km": 46.628,
+    "nearest_station": "CIRCLE K AUTOMAT KJØLLEFJORD"
+  },
+  {
+    "id": "28960007910000",
+    "population": 39,
+    "x": 896500.000006,
+    "y": 7910499.999887,
+    "lat": 70.97445248800463,
+    "lon": 25.950391566803216,
+    "nearest_km": 46.526,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "24920007524000",
+    "population": 9,
+    "x": 492500.0,
+    "y": 7524499.999883,
+    "lat": 67.83518612134301,
+    "lon": 14.82186090834196,
+    "nearest_km": 46.255,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "25100007517000",
+    "population": 49,
+    "x": 510500.0,
+    "y": 7517499.999883,
+    "lat": 67.77230694461149,
+    "lon": 15.248725741315269,
+    "nearest_km": 46.159,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24530007108000",
+    "population": 6,
+    "x": 453499.999999,
+    "y": 7108499.99988,
+    "lat": 64.09994786710973,
+    "lon": 14.045879621153924,
+    "nearest_km": 46.106,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "25070007512000",
+    "population": 4,
+    "x": 507500.0,
+    "y": 7512499.999883,
+    "lat": 67.72755183640155,
+    "lon": 15.177322487156232,
+    "nearest_km": 46.09,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "24910007524000",
+    "population": 44,
+    "x": 491500.0,
+    "y": 7524499.999883,
+    "lat": 67.83515857322581,
+    "lon": 14.798109201337848,
+    "nearest_km": 46.041,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "25050007511000",
+    "population": 4,
+    "x": 505500.0,
+    "y": 7511499.999883,
+    "lat": 67.71862675503625,
+    "lon": 15.129987033269902,
+    "nearest_km": 46.005,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "24900007524000",
+    "population": 10,
+    "x": 490500.0,
+    "y": 7524499.999883,
+    "lat": 67.83512758164342,
+    "lon": 14.774357558789378,
+    "nearest_km": 45.847,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "24520007108000",
+    "population": 2,
+    "x": 452499.999999,
+    "y": 7108499.99988,
+    "lat": 64.09981200013418,
+    "lon": 14.025364446594518,
+    "nearest_km": 45.654,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "25020007509000",
+    "population": 1,
+    "x": 502500.0,
+    "y": 7509499.999883,
+    "lat": 67.70072855556758,
+    "lon": 15.05904002242964,
+    "nearest_km": 45.65,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25060007511000",
+    "population": 9,
+    "x": 506500.0,
+    "y": 7511499.999883,
+    "lat": 67.71860621324794,
+    "lon": 15.153620942273283,
+    "nearest_km": 45.579,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25040007510000",
+    "population": 15,
+    "x": 504500.0,
+    "y": 7510499.999883,
+    "lat": 67.70967424728664,
+    "lon": 15.106312505917462,
+    "nearest_km": 45.56,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25110007517000",
+    "population": 17,
+    "x": 511500.0,
+    "y": 7517499.999883,
+    "lat": 67.77226918424495,
+    "lon": 15.272413590098422,
+    "nearest_km": 45.532,
+    "nearest_station": "YX Drag"
+  },
+  {
+    "id": "24990007527000",
+    "population": 4,
+    "x": 499500.0,
+    "y": 7527499.999883,
+    "lat": 67.86219101671279,
+    "lon": 14.988110329962991,
+    "nearest_km": 45.524,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "23410006896000",
+    "population": 15,
+    "x": 341499.999998,
+    "y": 6896499.999878,
+    "lat": 62.16692473317939,
+    "lon": 11.956411162001746,
+    "nearest_km": 45.487,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "23400006896000",
+    "population": 12,
+    "x": 340499.999998,
+    "y": 6896499.999878,
+    "lat": 62.16650193959308,
+    "lon": 11.937241194715837,
+    "nearest_km": 45.455,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "29650007807000",
+    "population": 6,
+    "x": 965500.000007,
+    "y": 7807499.999886,
+    "lat": 69.95249180614454,
+    "lon": 27.238747500280653,
+    "nearest_km": 45.334,
+    "nearest_station": "Uno-X Truck Tana"
+  },
+  {
+    "id": "25050007522000",
+    "population": 2,
+    "x": 505500.0,
+    "y": 7522499.999883,
+    "lat": 67.81729189925481,
+    "lon": 15.130535292236344,
+    "nearest_km": 45.298,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28930007918000",
+    "population": 57,
+    "x": 893500.000006,
+    "y": 7918499.999887,
+    "lat": 71.04970345886967,
+    "lon": 25.908774508328676,
+    "nearest_km": 45.282,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "24510007108000",
+    "population": 6,
+    "x": 451499.999999,
+    "y": 7108499.99988,
+    "lat": 64.09967324332204,
+    "lon": 14.00484949815064,
+    "nearest_km": 45.219,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "25070007511000",
+    "population": 4,
+    "x": 507500.0,
+    "y": 7511499.999883,
+    "lat": 67.71858224785721,
+    "lon": 15.177254802754144,
+    "nearest_km": 45.17,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25030007509000",
+    "population": 19,
+    "x": 503500.0,
+    "y": 7509499.999883,
+    "lat": 67.70071829377618,
+    "lon": 15.082656005336503,
+    "nearest_km": 45.154,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "23370006903000",
+    "population": 4,
+    "x": 337499.999998,
+    "y": 6903499.999878,
+    "lat": 62.22795854408717,
+    "lon": 11.873251710691434,
+    "nearest_km": 45.149,
+    "nearest_station": "YX Os i Østerdalen (automat)"
+  },
+  {
+    "id": "25050007510000",
+    "population": 3,
+    "x": 505500.0,
+    "y": 7510499.999883,
+    "lat": 67.70965713672223,
+    "lon": 15.129937438884985,
+    "nearest_km": 45.107,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "23240006893000",
+    "population": 1,
+    "x": 324499.999998,
+    "y": 6893499.999878,
+    "lat": 62.132494259625275,
+    "lon": 11.633596780777747,
+    "nearest_km": 45.04,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "23320006895000",
+    "population": 3,
+    "x": 332499.999998,
+    "y": 6895499.999878,
+    "lat": 62.15406195577642,
+    "lon": 11.78485572949152,
+    "nearest_km": 45.004,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "28930007917000",
+    "population": 24,
+    "x": 893500.000006,
+    "y": 7917499.999887,
+    "lat": 71.0408992470884,
+    "lon": 25.903838533816966,
+    "nearest_km": 44.992,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "25000007528000",
+    "population": 2,
+    "x": 500500.0,
+    "y": 7528499.999883,
+    "lat": 67.87116048911926,
+    "lon": 15.011894242709992,
+    "nearest_km": 44.916,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24970007527000",
+    "population": 4,
+    "x": 497500.0,
+    "y": 7527499.999883,
+    "lat": 67.86218067225326,
+    "lon": 14.940551668842014,
+    "nearest_km": 44.798,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "25020007508000",
+    "population": 12,
+    "x": 502500.0,
+    "y": 7508499.999883,
+    "lat": 67.6917588990705,
+    "lon": 15.059017516695723,
+    "nearest_km": 44.789,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "27930007822000",
+    "population": 8,
+    "x": 793500.000004,
+    "y": 7822499.999886,
+    "lat": 70.33800373162684,
+    "lon": 22.834652874271235,
+    "nearest_km": 44.762,
+    "nearest_station": "YX Bossekop"
+  },
+  {
+    "id": "25040007509000",
+    "population": 10,
+    "x": 504500.0,
+    "y": 7509499.999883,
+    "lat": 67.70070461139657,
+    "lon": 15.106271962178422,
+    "nearest_km": 44.674,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "24990007528000",
+    "population": 1,
+    "x": 499500.0,
+    "y": 7528499.999883,
+    "lat": 67.87116048911926,
+    "lon": 14.988105757289974,
+    "nearest_km": 44.601,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "25050007523000",
+    "population": 4,
+    "x": 505500.0,
+    "y": 7523499.999883,
+    "lat": 67.82626139815362,
+    "lon": 15.130585382596733,
+    "nearest_km": 44.565,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28470007713000",
+    "population": 4,
+    "x": 847500.000005,
+    "y": 7713499.999885,
+    "lat": 69.30496576648383,
+    "lon": 23.837277951589897,
+    "nearest_km": 44.547,
+    "nearest_station": "CIRCLE K KAUTOKEINO"
+  },
+  {
+    "id": "25000007507000",
+    "population": 11,
+    "x": 500500.0,
+    "y": 7507499.999883,
+    "lat": 67.68279948529168,
+    "lon": 15.011799009626072,
+    "nearest_km": 44.541,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "25010007507000",
+    "population": 15,
+    "x": 501500.0,
+    "y": 7507499.999883,
+    "lat": 67.68279606773024,
+    "lon": 15.035397025163622,
+    "nearest_km": 44.466,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "24960007527000",
+    "population": 3,
+    "x": 496500.0,
+    "y": 7527499.999883,
+    "lat": 67.86217032779956,
+    "lon": 14.916772363016586,
+    "nearest_km": 44.465,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "23380006895000",
+    "population": 1,
+    "x": 338499.999998,
+    "y": 6895499.999878,
+    "lat": 62.15668517689531,
+    "lon": 11.899821130963387,
+    "nearest_km": 44.458,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "23400006895000",
+    "population": 7,
+    "x": 340499.999998,
+    "y": 6895499.999878,
+    "lat": 62.15753839323107,
+    "lon": 11.938147920939894,
+    "nearest_km": 44.456,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "24990007507000",
+    "population": 1,
+    "x": 499500.0,
+    "y": 7507499.999883,
+    "lat": 67.68279948529168,
+    "lon": 14.988200990373894,
+    "nearest_km": 44.293,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "28890007925000",
+    "population": 12,
+    "x": 889500.000006,
+    "y": 7925499.999887,
+    "lat": 71.11773898456022,
+    "lon": 25.83472664059532,
+    "nearest_km": 44.278,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "27940007822000",
+    "population": 4,
+    "x": 794500.000004,
+    "y": 7822499.999886,
+    "lat": 70.33685076091061,
+    "lon": 22.861032162402488,
+    "nearest_km": 44.267,
+    "nearest_station": "Uno-X Alta"
+  },
+  {
+    "id": "25010007528000",
+    "population": 2,
+    "x": 501500.0,
+    "y": 7528499.999883,
+    "lat": 67.87115703942345,
+    "lon": 15.035682724319997,
+    "nearest_km": 44.128,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "23230006894000",
+    "population": 13,
+    "x": 323499.999998,
+    "y": 6894499.999878,
+    "lat": 62.14098768714663,
+    "lon": 11.613453247210588,
+    "nearest_km": 44.059,
+    "nearest_station": "YX Tolga"
+  },
+  {
+    "id": "28650007741000",
+    "population": 8,
+    "x": 865500.000005,
+    "y": 7741499.999885,
+    "lat": 69.52895058330866,
+    "lon": 24.396107098897048,
+    "nearest_km": 43.941,
+    "nearest_station": "YX Karasjok"
+  },
+  {
+    "id": "28690007723000",
+    "population": 3,
+    "x": 869500.000005,
+    "y": 7723499.999885,
+    "lat": 69.36421120614436,
+    "lon": 24.426482154525157,
+    "nearest_km": 43.898,
+    "nearest_station": "YX Karasjok"
+  },
+  {
+    "id": "24500007109000",
+    "population": 23,
+    "x": 450499.999999,
+    "y": 7109499.99988,
+    "lat": 64.10850407878314,
+    "lon": 13.984007499951511,
+    "nearest_km": 43.891,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "24940007527000",
+    "population": 2,
+    "x": 494500.0,
+    "y": 7527499.999883,
+    "lat": 67.86213929447355,
+    "lon": 14.869213838889502,
+    "nearest_km": 43.858,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "28890007924000",
+    "population": 43,
+    "x": 889500.000006,
+    "y": 7924499.999887,
+    "lat": 71.1089326523951,
+    "lon": 25.82980476968719,
+    "nearest_km": 43.822,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "28310007742000",
+    "population": 1,
+    "x": 831500.000005,
+    "y": 7742499.999885,
+    "lat": 69.5823411888826,
+    "lon": 23.5383293229916,
+    "nearest_km": 43.735,
+    "nearest_station": "CIRCLE K ALTA"
+  },
+  {
+    "id": "24550007112000",
+    "population": 4,
+    "x": 455499.999999,
+    "y": 7112499.99988,
+    "lat": 64.13610186707814,
+    "lon": 14.085732399699689,
+    "nearest_km": 43.626,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "24930007527000",
+    "population": 1,
+    "x": 493500.0,
+    "y": 7527499.999883,
+    "lat": 67.86211860561872,
+    "lon": 14.845434635809141,
+    "nearest_km": 43.586,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "28690007724000",
+    "population": 1,
+    "x": 869500.000005,
+    "y": 7724499.999885,
+    "lat": 69.37305790734653,
+    "lon": 24.43038082035806,
+    "nearest_km": 43.493,
+    "nearest_station": "YX Karasjok"
+  },
+  {
+    "id": "25120007519000",
+    "population": 18,
+    "x": 512500.0,
+    "y": 7519499.999883,
+    "lat": 67.79016688558701,
+    "lon": 15.296328181883629,
+    "nearest_km": 43.388,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25020007528000",
+    "population": 1,
+    "x": 502500.0,
+    "y": 7528499.999883,
+    "lat": 67.87115014003382,
+    "lon": 15.059471194499961,
+    "nearest_km": 43.349,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24990007506000",
+    "population": 3,
+    "x": 499500.0,
+    "y": 7506499.999883,
+    "lat": 67.67382980431093,
+    "lon": 14.988205484091418,
+    "nearest_km": 43.322,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "29670007808000",
+    "population": 2,
+    "x": 967500.000007,
+    "y": 7808499.999886,
+    "lat": 69.95767465024332,
+    "lon": 27.295054354563952,
+    "nearest_km": 43.316,
+    "nearest_station": "Uno-X Truck Tana"
+  },
+  {
+    "id": "23270006892000",
+    "population": 2,
+    "x": 327499.999998,
+    "y": 6892499.999878,
+    "lat": 62.124918841515786,
+    "lon": 11.69200538542165,
+    "nearest_km": 43.166,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "25060007524000",
+    "population": 5,
+    "x": 506500.0,
+    "y": 7524499.999883,
+    "lat": 67.83521022597952,
+    "lon": 15.154387327780976,
+    "nearest_km": 43.151,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28540007760000",
+    "population": 2,
+    "x": 854500.000005,
+    "y": 7760499.999885,
+    "lat": 69.71203145956716,
+    "lon": 24.190795468638594,
+    "nearest_km": 43.126,
+    "nearest_station": "CIRCLE K ELVEBAKKEN"
+  },
+  {
+    "id": "24980007506000",
+    "population": 7,
+    "x": 498500.0,
+    "y": 7506499.999883,
+    "lat": 67.67382638826685,
+    "lon": 14.964616455984459,
+    "nearest_km": 43.091,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "28880007924000",
+    "population": 3,
+    "x": 888500.000006,
+    "y": 7924499.999887,
+    "lat": 71.11052460520136,
+    "lon": 25.802622047187306,
+    "nearest_km": 42.932,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "23280006892000",
+    "population": 13,
+    "x": 328499.999998,
+    "y": 6892499.999878,
+    "lat": 62.12537538830314,
+    "lon": 11.711144544656666,
+    "nearest_km": 42.897,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "28310007743000",
+    "population": 5,
+    "x": 831500.000005,
+    "y": 7743499.999885,
+    "lat": 69.59120938112699,
+    "lon": 23.541904728410373,
+    "nearest_km": 42.824,
+    "nearest_station": "CIRCLE K ALTA"
+  },
+  {
+    "id": "24470007109000",
+    "population": 2,
+    "x": 447499.999999,
+    "y": 7109499.99988,
+    "lat": 64.10806162539016,
+    "lon": 13.922444958003007,
+    "nearest_km": 42.732,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "25020007529000",
+    "population": 5,
+    "x": 502500.0,
+    "y": 7529499.999883,
+    "lat": 67.8801195979138,
+    "lon": 15.059494076892017,
+    "nearest_km": 42.723,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25130007519000",
+    "population": 18,
+    "x": 513500.0,
+    "y": 7519499.999883,
+    "lat": 67.79012222010101,
+    "lon": 15.320033995506085,
+    "nearest_km": 42.705,
+    "nearest_station": "YX Drag"
+  },
+  {
+    "id": "23230006896000",
+    "population": 5,
+    "x": 323499.999998,
+    "y": 6896499.999878,
+    "lat": 62.15890907647785,
+    "lon": 11.611448425529897,
+    "nearest_km": 42.641,
+    "nearest_station": "YX Tolga"
+  },
+  {
+    "id": "25030007528000",
+    "population": 1,
+    "x": 503500.0,
+    "y": 7528499.999883,
+    "lat": 67.87113979095422,
+    "lon": 15.08325964562988,
+    "nearest_km": 42.579,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24490007110000",
+    "population": 2,
+    "x": 449499.999999,
+    "y": 7110499.99988,
+    "lat": 64.11733189767305,
+    "lon": 13.963152281583676,
+    "nearest_km": 42.568,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "25120007520000",
+    "population": 9,
+    "x": 512500.0,
+    "y": 7520499.999883,
+    "lat": 67.79913631774981,
+    "lon": 15.296441737882578,
+    "nearest_km": 42.552,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "27940007820000",
+    "population": 3,
+    "x": 794500.000004,
+    "y": 7820499.999886,
+    "lat": 70.31908539835784,
+    "lon": 22.854179363343242,
+    "nearest_km": 42.528,
+    "nearest_station": "YX Bossekop"
+  },
+  {
+    "id": "25040007527000",
+    "population": 7,
+    "x": 504500.0,
+    "y": 7527499.999883,
+    "lat": 67.86215653520375,
+    "lon": 15.10700691617111,
+    "nearest_km": 42.482,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "30660007760000",
+    "population": 9,
+    "x": 1066500.000008,
+    "y": 7760499.999886,
+    "lat": 69.34594079364125,
+    "lon": 29.507959257973067,
+    "nearest_km": 42.471,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "25060007525000",
+    "population": 5,
+    "x": 506500.0,
+    "y": 7525499.999883,
+    "lat": 67.84417969578968,
+    "lon": 15.154446623881169,
+    "nearest_km": 42.428,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28920007900000",
+    "population": 2,
+    "x": 892500.000006,
+    "y": 7900499.999887,
+    "lat": 70.89279277927052,
+    "lon": 25.793751060660675,
+    "nearest_km": 42.417,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "23330006903000",
+    "population": 12,
+    "x": 333499.999998,
+    "y": 6903499.999878,
+    "lat": 62.2262044421458,
+    "lon": 11.796426854163718,
+    "nearest_km": 42.408,
+    "nearest_station": "YX Os i Østerdalen (automat)"
+  },
+  {
+    "id": "24950007529000",
+    "population": 20,
+    "x": 495500.0,
+    "y": 7529499.999883,
+    "lat": 67.88009543926844,
+    "lon": 14.892910741701565,
+    "nearest_km": 42.249,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "30680007760000",
+    "population": 2,
+    "x": 1068500.000008,
+    "y": 7760499.999886,
+    "lat": 69.3417294833441,
+    "lon": 29.557135362707506,
+    "nearest_km": 42.093,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "27950007820000",
+    "population": 22,
+    "x": 795500.000004,
+    "y": 7820499.999886,
+    "lat": 70.31792971277702,
+    "lon": 22.880533076810803,
+    "nearest_km": 42.043,
+    "nearest_station": "Uno-X Alta"
+  },
+  {
+    "id": "25030007529000",
+    "population": 3,
+    "x": 503500.0,
+    "y": 7529499.999883,
+    "lat": 67.88010924420473,
+    "lon": 15.083291680946393,
+    "nearest_km": 41.942,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "27410007819000",
+    "population": 2,
+    "x": 741500.000004,
+    "y": 7819499.999886,
+    "lat": 70.36591421494099,
+    "lon": 21.45034378685563,
+    "nearest_km": 41.936,
+    "nearest_station": "St1 Skjervøy"
+  },
+  {
+    "id": "24970007505000",
+    "population": 6,
+    "x": 497500.0,
+    "y": 7505499.999883,
+    "lat": 67.66484986978138,
+    "lon": 14.941049889022496,
+    "nearest_km": 41.901,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "23250006890000",
+    "population": 1,
+    "x": 325499.999998,
+    "y": 6890499.999878,
+    "lat": 62.10607555715585,
+    "lon": 11.655705967919765,
+    "nearest_km": 41.878,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "28910007897000",
+    "population": 2,
+    "x": 891500.000006,
+    "y": 7897499.999887,
+    "lat": 70.86795143800984,
+    "lon": 25.752385039731628,
+    "nearest_km": 41.846,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "25040007528000",
+    "population": 1,
+    "x": 504500.0,
+    "y": 7528499.999883,
+    "lat": 67.87112599219051,
+    "lon": 15.10704807008979,
+    "nearest_km": 41.819,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "30700007760000",
+    "population": 1,
+    "x": 1070500.000008,
+    "y": 7760499.999886,
+    "lat": 69.33750434904691,
+    "lon": 29.60629091809258,
+    "nearest_km": 41.806,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "23320006903000",
+    "population": 1,
+    "x": 332499.999998,
+    "y": 6903499.999878,
+    "lat": 62.22575927575813,
+    "lon": 11.77722223670778,
+    "nearest_km": 41.754,
+    "nearest_station": "YX Os i Østerdalen (automat)"
+  },
+  {
+    "id": "25070007525000",
+    "population": 7,
+    "x": 507500.0,
+    "y": 7525499.999883,
+    "lat": 67.84415558038434,
+    "lon": 15.178207510074383,
+    "nearest_km": 41.737,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28910007898000",
+    "population": 4,
+    "x": 891500.000006,
+    "y": 7898499.999887,
+    "lat": 70.87676027056806,
+    "lon": 25.757205870552855,
+    "nearest_km": 41.682,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "20370006570000",
+    "population": 7,
+    "x": 37499.999994,
+    "y": 6570499.999877,
+    "lat": 59.02208332794026,
+    "lon": 6.932094449053645,
+    "nearest_km": 41.575,
+    "nearest_station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "id": "23260006890000",
+    "population": 1,
+    "x": 326499.999998,
+    "y": 6890499.999878,
+    "lat": 62.106537044471075,
+    "lon": 11.674832551293717,
+    "nearest_km": 41.553,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "20390006569000",
+    "population": 2,
+    "x": 39499.999994,
+    "y": 6569499.999877,
+    "lat": 59.01534754847755,
+    "lon": 6.968672254727058,
+    "nearest_km": 41.552,
+    "nearest_station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "id": "25020007531000",
+    "population": 3,
+    "x": 502500.0,
+    "y": 7531499.999883,
+    "lat": 67.89805848398468,
+    "lon": 15.05953989891878,
+    "nearest_km": 41.515,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24540007114000",
+    "population": 11,
+    "x": 454499.999999,
+    "y": 7114499.99988,
+    "lat": 64.15391686618463,
+    "lon": 14.06458667271462,
+    "nearest_km": 41.401,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "25030007530000",
+    "population": 2,
+    "x": 503500.0,
+    "y": 7530499.999883,
+    "lat": 67.88907868755425,
+    "lon": 15.083323742965291,
+    "nearest_km": 41.319,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "29290007778000",
+    "population": 6,
+    "x": 929500.000006,
+    "y": 7778499.999886,
+    "lat": 69.75934677090781,
+    "lon": 26.17781851555138,
+    "nearest_km": 41.288,
+    "nearest_station": "CIRCLE K KARASJOK"
+  },
+  {
+    "id": "27950007819000",
+    "population": 6,
+    "x": 795500.000004,
+    "y": 7819499.999886,
+    "lat": 70.30904747162118,
+    "lon": 22.87710022151873,
+    "nearest_km": 41.182,
+    "nearest_station": "YX Bossekop"
+  },
+  {
+    "id": "20360006570000",
+    "population": 6,
+    "x": 36499.999994,
+    "y": 6570499.999877,
+    "lat": 59.02100155864894,
+    "lon": 6.914850659320873,
+    "nearest_km": 41.173,
+    "nearest_station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "id": "20380006569000",
+    "population": 3,
+    "x": 38499.999994,
+    "y": 6569499.999877,
+    "lat": 59.014270721161395,
+    "lon": 6.951430274647224,
+    "nearest_km": 41.101,
+    "nearest_station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "id": "25050007528000",
+    "population": 1,
+    "x": 505500.0,
+    "y": 7528499.999883,
+    "lat": 67.87110874375053,
+    "lon": 15.130836460259783,
+    "nearest_km": 41.069,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24900007505000",
+    "population": 1,
+    "x": 490500.0,
+    "y": 7505499.999883,
+    "lat": 67.66470646023603,
+    "lon": 14.775990563996734,
+    "nearest_km": 41.058,
+    "nearest_station": "Uno-X Tverlandet"
+  },
+  {
+    "id": "25070007526000",
+    "population": 3,
+    "x": 507500.0,
+    "y": 7526499.999883,
+    "lat": 67.85312502948594,
+    "lon": 15.178275985432599,
+    "nearest_km": 41.013,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28010007822000",
+    "population": 8,
+    "x": 801500.000004,
+    "y": 7822499.999886,
+    "lat": 70.3286724137625,
+    "lon": 23.04559804004333,
+    "nearest_km": 41.002,
+    "nearest_station": "Uno-X Alta"
+  },
+  {
+    "id": "23320006904000",
+    "population": 3,
+    "x": 332499.999998,
+    "y": 6904499.999878,
+    "lat": 62.234721350397244,
+    "lon": 11.776265148265178,
+    "nearest_km": 40.997,
+    "nearest_station": "YX Os i Østerdalen (automat)"
+  },
+  {
+    "id": "27410007818000",
+    "population": 1,
+    "x": 741500.000004,
+    "y": 7818499.999886,
+    "lat": 70.35700411284984,
+    "lon": 21.44752357809649,
+    "nearest_km": 40.995,
+    "nearest_station": "St1 Skjervøy"
+  },
+  {
+    "id": "25010007533000",
+    "population": 15,
+    "x": 501500.0,
+    "y": 7533499.999883,
+    "lat": 67.91600424533647,
+    "lon": 15.035751486120585,
+    "nearest_km": 40.951,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "23250006889000",
+    "population": 1,
+    "x": 325499.999998,
+    "y": 6889499.999878,
+    "lat": 62.097114396906335,
+    "lon": 11.656693431675416,
+    "nearest_km": 40.937,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "30700007761000",
+    "population": 7,
+    "x": 1070500.000008,
+    "y": 7761499.999886,
+    "lat": 69.34618226129552,
+    "lon": 29.612285198499187,
+    "nearest_km": 40.817,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "25030007531000",
+    "population": 5,
+    "x": 503500.0,
+    "y": 7531499.999883,
+    "lat": 67.89804812100598,
+    "lon": 15.08335583171898,
+    "nearest_km": 40.711,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "28010007823000",
+    "population": 8,
+    "x": 801500.000004,
+    "y": 7823499.999886,
+    "lat": 70.33755098113082,
+    "lon": 23.049107636004006,
+    "nearest_km": 40.695,
+    "nearest_station": "CIRCLE K RYPEFJORD"
+  },
+  {
+    "id": "20370006569000",
+    "population": 4,
+    "x": 37499.999994,
+    "y": 6569499.999877,
+    "lat": 59.013191611847304,
+    "lon": 6.934189567766793,
+    "nearest_km": 40.669,
+    "nearest_station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "id": "25150007520000",
+    "population": 7,
+    "x": 515500.0,
+    "y": 7520499.999883,
+    "lat": 67.79899194990035,
+    "lon": 15.367586117426303,
+    "nearest_km": 40.558,
+    "nearest_station": "YX Drag"
+  },
+  {
+    "id": "25040007530000",
+    "population": 1,
+    "x": 504500.0,
+    "y": 7530499.999883,
+    "lat": 67.88906487644059,
+    "lon": 15.107130480838554,
+    "nearest_km": 40.535,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24460007111000",
+    "population": 2,
+    "x": 446499.999999,
+    "y": 7111499.99988,
+    "lat": 64.12585281416281,
+    "lon": 13.901216420767428,
+    "nearest_km": 40.506,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "28900007909000",
+    "population": 10,
+    "x": 890500.000006,
+    "y": 7909499.999887,
+    "lat": 70.97523542900751,
+    "lon": 25.783537060866756,
+    "nearest_km": 40.459,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "25020007533000",
+    "population": 22,
+    "x": 502500.0,
+    "y": 7533499.999883,
+    "lat": 67.91599733049145,
+    "lon": 15.059585797423633,
+    "nearest_km": 40.371,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "24520007114000",
+    "population": 10,
+    "x": 452499.999999,
+    "y": 7114499.99988,
+    "lat": 64.15364738067278,
+    "lon": 14.023476658257849,
+    "nearest_km": 40.361,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "25080007526000",
+    "population": 4,
+    "x": 508500.0,
+    "y": 7526499.999883,
+    "lat": 67.85309745674493,
+    "lon": 15.202045944523181,
+    "nearest_km": 40.323,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25100007507000",
+    "population": 1,
+    "x": 510500.0,
+    "y": 7507499.999883,
+    "lat": 67.68261152035372,
+    "lon": 15.247777772029528,
+    "nearest_km": 40.32,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "27790007855000",
+    "population": 3,
+    "x": 779500.000004,
+    "y": 7855499.999886,
+    "lat": 70.64709793510686,
+    "lon": 22.574288880890016,
+    "nearest_km": 40.265,
+    "nearest_station": "Uno-X Hammerfest"
+  },
+  {
+    "id": "29670007812000",
+    "population": 4,
+    "x": 967500.000007,
+    "y": 7812499.999886,
+    "lat": 69.99271943039942,
+    "lon": 27.31601283549655,
+    "nearest_km": 40.228,
+    "nearest_station": "Uno-X Truck Tana"
+  },
+  {
+    "id": "25330007509000",
+    "population": 4,
+    "x": 533500.0,
+    "y": 7509499.999883,
+    "lat": 67.69881996076333,
+    "lon": 15.791089902388476,
+    "nearest_km": 40.221,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "24450007111000",
+    "population": 3,
+    "x": 445499.999999,
+    "y": 7111499.99988,
+    "lat": 64.12569653361051,
+    "lon": 13.880683094906836,
+    "nearest_km": 40.166,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "26360007774000",
+    "population": 2,
+    "x": 636500.000002,
+    "y": 7774499.999885,
+    "lat": 70.04135181397243,
+    "lon": 18.584882752083224,
+    "nearest_km": 40.15,
+    "nearest_station": "Bunker Oil Hansnes"
+  },
+  {
+    "id": "25030007532000",
+    "population": 7,
+    "x": 503500.0,
+    "y": 7532499.999883,
+    "lat": 67.9070175445631,
+    "lon": 15.083387947239938,
+    "nearest_km": 40.118,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25010007534000",
+    "population": 30,
+    "x": 501500.0,
+    "y": 7534499.999883,
+    "lat": 67.92497365685948,
+    "lon": 15.035765272923788,
+    "nearest_km": 40.073,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "27410007817000",
+    "population": 1,
+    "x": 741500.000004,
+    "y": 7817499.999886,
+    "lat": 70.3480939523608,
+    "lon": 21.444705980277803,
+    "nearest_km": 40.056,
+    "nearest_station": "St1 Skjervøy"
+  },
+  {
+    "id": "24530007115000",
+    "population": 3,
+    "x": 453499.999999,
+    "y": 7115499.99988,
+    "lat": 64.16275614747859,
+    "lon": 14.043722764699671,
+    "nearest_km": 40.021,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "23250006888000",
+    "population": 15,
+    "x": 325499.999998,
+    "y": 6888499.999878,
+    "lat": 62.08815321593855,
+    "lon": 11.657680231425232,
+    "nearest_km": 40.0,
+    "nearest_station": "CIRCLE K AUTOMAT ENGERDAL"
+  },
+  {
+    "id": "25350007509000",
+    "population": 2,
+    "x": 535500.0000005,
+    "y": 7509499.999883,
+    "lat": 67.69858396547225,
+    "lon": 15.838313071101828,
+    "nearest_km": 39.961,
+    "nearest_station": "YX Drag"
+  },
+  {
+    "id": "26350007773000",
+    "population": 2,
+    "x": 635500.000002,
+    "y": 7773499.999885,
+    "lat": 70.03292702056046,
+    "lon": 18.557152856980064,
+    "nearest_km": 39.954,
+    "nearest_station": "YX Kvaløysletta"
+  },
+  {
+    "id": "29280007777000",
+    "population": 5,
+    "x": 928500.000006,
+    "y": 7777499.999886,
+    "lat": 69.75217781124518,
+    "lon": 26.1477100453058,
+    "nearest_km": 39.934,
+    "nearest_station": "CIRCLE K KARASJOK"
+  },
+  {
+    "id": "26830007645000",
+    "population": 4,
+    "x": 683500.000003,
+    "y": 7645499.999884,
+    "lat": 68.85936543632678,
+    "lon": 19.562618536180562,
+    "nearest_km": 39.927,
+    "nearest_station": "CIRCLE K E6 NORDKJOSBOTN"
+  },
+  {
+    "id": "25040007531000",
+    "population": 10,
+    "x": 504500.0,
+    "y": 7531499.999883,
+    "lat": 67.8980343037102,
+    "lon": 15.107171737751926,
+    "nearest_km": 39.915,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25190007509000",
+    "population": 2,
+    "x": 519500.0,
+    "y": 7509499.999883,
+    "lat": 67.70008891483727,
+    "lon": 15.46050312327054,
+    "nearest_km": 39.876,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "20350006569000",
+    "population": 5,
+    "x": 35499.999994,
+    "y": 6569499.999877,
+    "lat": 59.011026548602075,
+    "lon": 6.899711983854396,
+    "nearest_km": 39.866,
+    "nearest_station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "id": "24490007113000",
+    "population": 3,
+    "x": 449499.999999,
+    "y": 7113499.99988,
+    "lat": 64.14424906286916,
+    "lon": 13.962148448809868,
+    "nearest_km": 39.843,
+    "nearest_station": "CIRCLE K AUTOMAT NORDLI"
+  },
+  {
+    "id": "30700007762000",
+    "population": 8,
+    "x": 1070500.000008,
+    "y": 7762499.999886,
+    "lat": 69.35485992801226,
+    "lon": 29.618284636260878,
+    "nearest_km": 39.828,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "25020007534000",
+    "population": 1,
+    "x": 502500.0,
+    "y": 7534499.999883,
+    "lat": 67.92496673891625,
+    "lon": 15.059608775413437,
+    "nearest_km": 39.824,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "20370006568000",
+    "population": 2,
+    "x": 37499.999994,
+    "y": 6568499.999877,
+    "lat": 59.00429983742129,
+    "lon": 6.936283410717453,
+    "nearest_km": 39.767,
+    "nearest_station": "CIRCLE K AUTOMAT TONSTAD"
+  },
+  {
+    "id": "24270007239000",
+    "population": 3,
+    "x": 427499.999999,
+    "y": 7239499.99988,
+    "lat": 65.27054934503158,
+    "lon": 13.4467213925912,
+    "nearest_km": 39.767,
+    "nearest_station": "CIRCLE K AUTOMAT NAMSSKOGAN"
+  },
+  {
+    "id": "25050007530000",
+    "population": 5,
+    "x": 505500.0,
+    "y": 7530499.999883,
+    "lat": 67.88904761256313,
+    "lon": 15.130937184338613,
+    "nearest_km": 39.761,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "20710006562000",
+    "population": 15,
+    "x": 71499.999995,
+    "y": 6562499.999877,
+    "lat": 58.986268834956604,
+    "lon": 7.534663331526678,
+    "nearest_km": 39.719,
+    "nearest_station": "YX Fyresdal"
+  },
+  {
+    "id": "30710007762000",
+    "population": 2,
+    "x": 1071500.000008,
+    "y": 7762499.999886,
+    "lat": 69.352740241413,
+    "lon": 29.642873080301804,
+    "nearest_km": 39.714,
+    "nearest_station": "CIRCLE K HESSENG"
+  },
+  {
+    "id": "25350007508000",
+    "population": 26,
+    "x": 535500.0000005,
+    "y": 7508499.999883,
+    "lat": 67.68961526167793,
+    "lon": 15.837993556092835,
+    "nearest_km": 39.696,
+    "nearest_station": "YX Straumen (automat)"
+  },
+  {
+    "id": "25070007528000",
+    "population": 2,
+    "x": 507500.0,
+    "y": 7528499.999883,
+    "lat": 67.8710638978825,
+    "lon": 15.178413107250709,
+    "nearest_km": 39.602,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25080007527000",
+    "population": 5,
+    "x": 508500.0,
+    "y": 7527499.999883,
+    "lat": 67.86206688358384,
+    "lon": 15.202123614332546,
+    "nearest_km": 39.599,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25000007534000",
+    "population": 55,
+    "x": 500500.0,
+    "y": 7534499.999883,
+    "lat": 67.92497711583209,
+    "lon": 15.011921758920542,
+    "nearest_km": 39.598,
+    "nearest_station": "CIRCLE K SVOLVÆR"
+  },
+  {
+    "id": "28890007910000",
+    "population": 8,
+    "x": 889500.000006,
+    "y": 7910499.999887,
+    "lat": 70.98562802525846,
+    "lon": 25.761386521878094,
+    "nearest_km": 39.596,
+    "nearest_station": "CIRCLE K AUTOMAT HAVØYSUND"
+  },
+  {
+    "id": "23310006905000",
+    "population": 10,
+    "x": 331499.999998,
+    "y": 6905499.999878,
+    "lat": 62.243235244103325,
+    "lon": 11.75609208029176,
+    "nearest_km": 39.585,
+    "nearest_station": "YX Os i Østerdalen (automat)"
+  },
+  {
+    "id": "29680007812000",
+    "population": 1,
+    "x": 968500.000007,
+    "y": 7812499.999886,
+    "lat": 69.99092029577567,
+    "lon": 27.34159630776577,
+    "nearest_km": 39.579,
+    "nearest_station": "Uno-X Truck Tana"
+  },
+  {
+    "id": "25030007533000",
+    "population": 11,
+    "x": 503500.0,
+    "y": 7533499.999883,
+    "lat": 67.9159869582288,
+    "lon": 15.08342008956068,
+    "nearest_km": 39.543,
+    "nearest_station": "YX Ulvsvåg (automat)"
+  },
+  {
+    "id": "25340007508000",
+    "population": 7,
+    "x": 534500.0,
+    "y": 7508499.999883,
+    "lat": 67.68973491588264,
+    "lon": 15.814391096965057,
+    "nearest_km": 39.456,
+    "nearest_station": "YX Straumen (automat)"
+  }
+]

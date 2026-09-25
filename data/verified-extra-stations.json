@@ -1,0 +1,34 @@
+[
+  {
+    "id": "joker-trana",
+    "name": "Joker Træna",
+    "chain": "Joker",
+    "lat": 66.50116903026058,
+    "lon": 12.101401289033662,
+    "address": "Janesvågen 6, 8770 TRÆNA",
+    "fuel_types": [
+      "bensin",
+      "diesel"
+    ],
+    "source_url": "https://joker.no/finn-butikk/joker-trana",
+    "coordinate_source": "Store location in first-party JSON-LD; not independently surveyed fuel-pump position",
+    "retrieved": "2026-09-24"
+  },
+  {
+    "id": "st1-skjervoy",
+    "name": "St1 Skjervøy",
+    "chain": "St1",
+    "lat": 70.0259722,
+    "lon": 20.97721622,
+    "address": "Kveldsolveien 1, 9180 SKJERVØY",
+    "fuel_types": [
+      "Diesel",
+      "Farget Diesel",
+      "Truck AdBlue",
+      "95 Bensin"
+    ],
+    "source_url": "https://st1.no/stasjon/skjervy",
+    "coordinate_source": "First-party station JSON-LD",
+    "retrieved": "2026-09-24"
+  }
+]

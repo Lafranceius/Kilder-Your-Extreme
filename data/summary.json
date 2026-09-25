@@ -1,0 +1,19 @@
+{
+  "stations": 1098,
+  "by_chain": {
+    "Circle K": 443,
+    "Bunker Oil": 74,
+    "Joker": 1,
+    "St1": 1,
+    "YX": 270,
+    "Uno-X": 309
+  },
+  "cells": 55268,
+  "population": 5585868,
+  "covered_population_center": 5579223,
+  "covered_population_conservative": 5579014,
+  "uncovered_cells_center": 267,
+  "uncovered_cells_conservative": 292,
+  "selected": 147,
+  "max_distance_km": 64.86889365869737
+}
