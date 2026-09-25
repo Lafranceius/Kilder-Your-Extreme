@@ -1,6 +1,7 @@
 # Kilder Your Extreme
 
-Datagrunnlag og geografisk studie bak [Second Signa sin nettside](https://kongsberg.bighiro6.com). 
+Datagrunnlag og geografisk studie bak [Second Signal] sin nettside: 
+https://kongsberg.bighiro6.com
 
 Øyeblikksbilde publisert 25. september 2026; kildene ble undersøkt 24. september 2026.
 
