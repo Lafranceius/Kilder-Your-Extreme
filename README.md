@@ -1,4 +1,4 @@
-# Kilder Your Extreme
+#Kilder til Your Extreme
 
 Datagrunnlag og geografisk studie bak [Second Signal] sin nettside: 
 https://kongsberg.bighiro6.com
